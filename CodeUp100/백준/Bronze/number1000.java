@@ -10,7 +10,5 @@ public class number1000 {
 		int secondNum = scanner.nextInt();
 		
 		System.out.println(firstNum+secondNum);
-	
-		 
 	}
 }
