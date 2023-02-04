@@ -11,5 +11,6 @@ public class number1000 {
 		
 		System.out.println(firstNum+secondNum);
 	
+		 
 	}
 }
